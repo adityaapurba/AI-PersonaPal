@@ -1,5 +1,14 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+### Description:
+AI-Persona Pal is a unique and engaging application that brings historical and fictional characters to life through conversation. Ever wondered what it would be like to chat with Elon Musk or Albert Einstein? With DialogueDuo, you can have dynamic conversations with your favorite characters by providing descriptions about them beforehand. The app leverages the ChatGPT API to create an interactive and immersive experience, allowing users to explore the minds of historical figures, fictional heroes, and more.
+
+### Features:
+
+Conversational Exploration: Engage in insightful and entertaining conversations with characters of your choice.
+Historical Insights: Step into the shoes of iconic figures and gain a new perspective on history.
+Character Customization: Describe characters to the app, and watch as the AI brings them to life in the chat.
+
 ## Getting Started
 
 First, run the development server:
